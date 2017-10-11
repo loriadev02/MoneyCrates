@@ -1,0 +1,8 @@
+name: MoneyCrates
+author: Loria in MCPEVN-Server
+version: 0.1_alpha
+main: MCPEVN\Loria\MoneyCrates
+api: 3.0.0
+commands:
+ mcrs:
+  description: MoneyCrates command!
