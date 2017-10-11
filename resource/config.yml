@@ -1,0 +1,19 @@
+---
+#Quay thưởng hòm đồng
+#Số tiền tối thiểu nhận của hòm
+min_money_brz: 0
+#Số tiền tối đa nhận của hòm
+max_money_brz: 5000
+
+#Quay thưởng hòm bạc
+#Số tiền tối thiểu nhận của hòm',
+min_money_slv: 5000
+#Số tiền tối đa nhận của hòm',
+max_money_slv: 20000
+
+#Quay thưởng hòm vàng
+#Số tiền tối thiểu nhận của hòm',
+min_money_gld: 20000
+#Số tiền tối đa nhận của hòm
+max_money_gld: 50000
+...
