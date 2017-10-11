@@ -1,1 +1,1 @@
-# MoneyCrates-
+# MoneyCrates plugin for PocketMine-MP
